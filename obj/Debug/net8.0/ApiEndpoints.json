@@ -185,5 +185,47 @@
     "Order": 0,
     "Parameters": [],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TareasApi.Controllers.UsuarioController",
+    "Method": "GetUsuariosConRoles",
+    "RelativePath": "api/Usuario",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TareasApi.Controllers.UsuarioController",
+    "Method": "AsignarRol",
+    "RelativePath": "api/Usuario/asignar-rol",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "TareasApi.Dtos.AsignarRolDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TareasApi.Controllers.UsuarioController",
+    "Method": "RemoverRol",
+    "RelativePath": "api/Usuario/remover-rol",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "TareasApi.Dtos.RemoverRolDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

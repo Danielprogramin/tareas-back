@@ -178,3 +178,4 @@ C:\Users\HP\source\repos\TareasApi\TareasApi\obj\Debug\net8.0\TareasApi.pdb
 C:\Users\HP\source\repos\TareasApi\TareasApi\obj\Debug\net8.0\TareasApi.genruntimeconfig.cache
 C:\Users\HP\source\repos\TareasApi\TareasApi\obj\Debug\net8.0\ref\TareasApi.dll
 C:\Users\HP\source\repos\TareasApi\TareasApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\HP\source\repos\TareasApi\TareasApi\obj\Debug\net8.0\TareasApi.sourcelink.json
