@@ -52,6 +52,38 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "TareasApi.Controllers.EmailController",
+    "Method": "ForgotPassword",
+    "RelativePath": "api/Email/forgot-password",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "TareasApi.Dtos.ForgotPasswordDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TareasApi.Controllers.EmailController",
+    "Method": "ResetPassword",
+    "RelativePath": "api/Email/reset-password",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "TareasApi.Dtos.ResetPasswordDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "TareasApi.Controllers.TareaController",
     "Method": "GetTareas",
     "RelativePath": "api/Tarea",
